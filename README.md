@@ -2,7 +2,7 @@
 My idea settings.
 
 # Plugins:
-CamelCase
-Compare Tab With Editor
-GitToolBox
+CamelCase  
+Compare Tab With Editor  
+GitToolBox  
 
