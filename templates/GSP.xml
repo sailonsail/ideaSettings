@@ -1,0 +1,9 @@
+<templateSet group="GSP">
+  <template name="cl" value="&lt;g:createLink controller=&quot;$a$&quot; action=&quot;$b$&quot;/&gt;" description="CreateLink" toReformat="false" toShortenFQNames="true">
+    <variable name="a" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="b" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GSP" value="true" />
+    </context>
+  </template>
+</templateSet>
