@@ -1,0 +1,11 @@
+<templateSet group="Groovy">
+  <template name="debug" value="logger.debug($a$)" description="logger.debug()" toReformat="false" toShortenFQNames="true">
+    <variable name="a" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY" value="true" />
+    </context>
+  </template>
+  <template name="info" value="logger.info($a$)" description="logger.info()" toReformat="false" toShortenFQNames="true">
+    <variable name="a" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>
