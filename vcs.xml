@@ -6,6 +6,10 @@
           <option name="url" value="http://sever.majorsofter.com:13000" />
           <option name="userName" value="zhaoguorun" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitee.com" />
+          <option name="userName" value="sailonsail@163.com" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
