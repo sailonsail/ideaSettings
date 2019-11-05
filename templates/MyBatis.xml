@@ -1,0 +1,9 @@
+<templateSet group="MyBatis">
+  <template name="foreach" value="&lt;foreach item=&quot;_item&quot; index=&quot;_index&quot; collection=&quot;$A$&quot; open=&quot;(&quot; separator=&quot;,&quot; close=&quot;)&quot;&gt;&#10;    #{_item}&#10;&lt;/foreach&gt;$END$" description="foreach" toReformat="false" toShortenFQNames="true">
+    <variable name="A" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="SQL" value="true" />
+      <option name="XML" value="true" />
+    </context>
+  </template>
+</templateSet>
