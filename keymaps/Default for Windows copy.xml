@@ -1,5 +1,7 @@
 <keymap version="1" name="Default for Windows copy" parent="$default">
+  <action id="Console.History.Browse" />
   <action id="ManageRecentProjects">
-    <keyboard-shortcut first-keystroke="ctrl alt r" />
+    <keyboard-shortcut first-keystroke="ctrl alt e" />
   </action>
+  <action id="PerforceDirect.Edit" />
 </keymap>
