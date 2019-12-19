@@ -11,7 +11,7 @@
     <mask>*.html</mask>
     <mask>*.java</mask>
     <mask>*.groovy</mask>
-    <mask>*.xml</mask>
     <mask>*.xml,*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
