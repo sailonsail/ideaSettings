@@ -6,4 +6,13 @@
       <option name="XML" value="true" />
     </context>
   </template>
+  <template name="trim" value="&lt;trim prefix=&quot;$A$&quot; suffix=&quot;$B$&quot; suffixOverrides=&quot;$C$&quot;&gt;&#10;    $END$&#10;&lt;/trim&gt;" toReformat="false" toShortenFQNames="true">
+    <variable name="A" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="B" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="C" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="SQL" value="true" />
+      <option name="XML" value="true" />
+    </context>
+  </template>
 </templateSet>
