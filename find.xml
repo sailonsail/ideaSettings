@@ -12,5 +12,6 @@
     <mask>*.java</mask>
     <mask>*.groovy</mask>
     <mask>*.xml</mask>
+    <mask>*.xml,*.java</mask>
   </component>
 </application>
