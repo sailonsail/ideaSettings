@@ -1,0 +1,8 @@
+<templateSet group="Java">
+  <template name="/" value="/** $END$ */" description="/** xxxx */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+    </context>
+  </template>
+</templateSet>
