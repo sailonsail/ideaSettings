@@ -1,0 +1,19 @@
+<application>
+  <component name="MajorGeneratorSetting">
+    <option name="dataSources" value="[{&quot;password&quot;:&quot;&quot;,&quot;user&quot;:&quot;root&quot;,&quot;url&quot;:&quot;jdbc:mysql://localhost:3306&quot;,&quot;name&quot;:&quot;\u672c\u5730\u8fde\u63a5&quot;}]" />
+    <option name="generatorPath" value="E:\Workspace\rapid\templates\rapid.jar" />
+    <option name="generatorPathHistoryList">
+      <collection />
+    </option>
+    <option name="packageName" value="com.major.project" />
+    <option name="tablesHistoryList">
+      <collection />
+    </option>
+    <option name="targetPathHistoryList">
+      <collection />
+    </option>
+    <option name="templateHistoryList">
+      <collection />
+    </option>
+  </component>
+</application>
