@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="queryById4" type="JSON" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
