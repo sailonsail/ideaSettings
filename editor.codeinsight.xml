@@ -1,0 +1,5 @@
+<application>
+  <component name="CodeInsightSettings">
+    <option name="JAVADOC_INFO_DELAY" value="500" />
+  </component>
+</application>
